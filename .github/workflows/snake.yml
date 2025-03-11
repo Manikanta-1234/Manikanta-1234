@@ -20,8 +20,19 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Set up Git
+        run: |
+          git config --global user.email "manikantakarturi@gmail.com"
+          git config --global user.name "Manikanta-1234"
+
+      - name: Push changes
+        run: |
+          git add .
+          git commit -m "Automated snake animation update" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/your-username/your-repo.git main --force
+
       - name: Upload to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output
+          branch: gh-pages  # Change to 'output' if you want a separate branch
           folder: dist

@@ -1,20 +1,19 @@
-# 👋 Hi, I'm **Manikanta**
-
-🎓 **AI & ML Engineer** | 🚀 Passionate Developer | 🤖 **Exploring Machine Learning & Mobile App Development**\
-🌱 **Constantly Learning New Technologies** | 🌍 **Based in Bangalore, India**
-
-I am a **Machine Learning and AI enthusiast** diving deep into **Neural Networks, NLP, and Mobile App Development**. I love building projects that **solve real-world problems** and sharing my learnings.
-
 <p align="center">
     <img src="https://img.shields.io/badge/AI/ML-Python,_Flask,_Pandas-purple"> 
     <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-green"> 
     <img src="https://img.shields.io/badge/status-learning-cyan"> 
 </p>
 
-
 <p align="center">
     <img src="https://media.licdn.com/dms/image/v2/D4E03AQEtnTo8RDmu5A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715760279597?e=1747267200&v=beta&t=wwBdlUKFTxfUmPe9QxZVNTGxaKP7w4SpnysNxtV4Qjg" width="200" alt="Profile Picture" />
 </p>
+
+# 👋 Hi, I'm **Manikanta**
+
+🎓 **AI & ML Engineer** | 🚀 Passionate Developer | 🤖 **Exploring Machine Learning & Mobile App Development**\
+🌱 **Constantly Learning New Technologies** | 🌍 **Based in Bangalore, India**
+
+I am a **Machine Learning and AI enthusiast** diving deep into **Neural Networks, NLP, and Mobile App Development**. I love building projects that **solve real-world problems** and sharing my learnings.
 
 ---
 
@@ -60,7 +59,6 @@ I am a **Machine Learning and AI enthusiast** diving deep into **Neural Networks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-1234&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 ---
 

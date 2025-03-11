@@ -53,8 +53,9 @@ I am a **Machine Learning and AI enthusiast** diving deep into **Neural Networks
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta-1234&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta-1234&theme=highcontrast" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-1234&layout=compact&theme=radical" alt="Top Languages" />

@@ -25,12 +25,11 @@ I love working on **AI/ML projects** and **building software** that makes an imp
 ---
 
 ## 🎮 My Car Racing Game 🏎️  
-Click the image below to check out my game!  
+
+🎮 **Play the game below!**  
 
 <p align="center">
-    <a href="https://github.com/Manikanta-1234/car-racing-game" target="_blank">
-        <img src="https://raw.githubusercontent.com/Manikanta-1234/car-racing-game/main/game.png" width="400" alt="Car Racing Game" />
-    </a>
+    <img src="https://raw.githubusercontent.com/Manikanta-1234/car-racing-game/main/game.gif" width="500" alt="Car Racing Game">
 </p>
 
 ---

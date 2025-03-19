@@ -24,13 +24,10 @@ I love working on **AI/ML projects** and **building software** that makes an imp
 
 ---
 
-## 🎮 My Car Racing Game 🏎️  
+## 🎮 My Car Racing Game 🏎️   
 
-🎮 **Play the game below!**  
+<iframe src="https://Manikanta-1234.github.io/car-racing-game" width="600" height="400"></iframe>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Manikanta-1234/car-racing-game/main/game.gif" width="500" alt="Car Racing Game">
-</p>
 
 ---
 
@@ -98,3 +95,11 @@ def reverse_string(s):
 
 # Test
 print(reverse_string("Manikanta"))  # Output: atnakinaM
+
+## 💡 Tech Quote of the Day  
+> "The computer was born to solve problems that did not exist before." – Bill Gates  
+
+## 🌐 Let's Connect!  
+🔗 **GitHub:** [Manikanta-1234](https://github.com/Manikanta-1234)  
+💼 **LinkedIn:** [Manikanta Karuturi](https://www.linkedin.com/in/manikanta-karuturi-048818259)  
+

@@ -1,100 +1,95 @@
+<img src="https://raw.githubusercontent.com/Manikanta-1234/Manikanta-1234/main/src/header.png" alt="Banner about Manikanta">
+
 <p align="center">
-    <img src="https://img.shields.io/badge/AI/ML-Python,_Flask,_Pandas-purple"> 
-    <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-green"> 
-    <img src="https://img.shields.io/badge/status-learning-cyan"> 
+    <img src="https://img.shields.io/badge/status-learning-blue"> 
+    <img src="https://img.shields.io/badge/Web_Dev-React,_Node,_MongoDB-blue"> 
+    <img src="https://img.shields.io/badge/AI/ML-Python,_Flask,_Pandas-orange"> 
+    <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-red">
 </p>
 
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEtnTo8RDmu5A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715760279597?e=1747267200&v=beta&t=wwBdlUKFTxfUmPe9QxZVNTGxaKP7w4SpnysNxtV4Qjg" width="200" alt="Profile Picture" />
+    <img src="https://avatars.githubusercontent.com/u/your_github_id" width="200" alt="Profile Picture">
 </p>
 
-# 👋 Hi, I'm **Manikanta**
+# 👋 Hi, I'm **Manikanta K**
 
-🎓 **AI & ML Engineer** | 🚀 Passionate Developer | 🤖 **Exploring Machine Learning & Mobile App Development**\
-🌱 **Constantly Learning New Technologies** | 🌍 **Based in Bangalore, India**
+🎓 **Artificial Intelligence & Machine Learning Engineering Student**  
+🚀 **Aspiring Software Developer & ML Enthusiast**  
+🌍 **Based in Bengaluru, India**  
 
-I am a **Machine Learning and AI enthusiast** diving deep into **Neural Networks, NLP, and Mobile App Development**. I love building projects that **solve real-world problems** and sharing my learnings.
+I love working on **AI/ML projects** and **building software** that makes an impact!
+
+## 🎮 My Car Racing Game 🏎️  
+Click the image below to check out my game!  
+
+<p align="center">
+    <a href="https://github.com/Manikanta-1234/car-racing-game" target="_blank">
+        <img src="https://raw.githubusercontent.com/Manikanta-1234/car-racing-game/main/game.png" width="400" alt="Car Racing Game" />
+    </a>
+</p>
 
 ---
 
 ## 🚀 Skills & Interests
 
-### 🤖 Machine Learning & AI
+### 🌐 Web Development  
+✅ HTML, CSS, JavaScript  
+✅ React.js, Node.js, Express.js  
+✅ MongoDB, MySQL  
+✅ Git & GitHub  
 
-✅ Python, TensorFlow, Pandas\
-✅ Model Training & Optimization\
-✅ AI-powered APIs using Flask
+### 🤖 AI & Machine Learning  
+🟡 Python, Pandas, NumPy  
+🟡 Machine Learning Algorithms  
+🟡 Flask for AI APIs  
 
-### 📱 Mobile App Development
+### 💻 Programming Languages  
+🟢 C  
+🟢 Python  
+🟡 Java  
+🔵 SQL  
 
-✅ Flutter, Dart\
-✅ Firebase Integration\
-✅ Speech-to-Text & NLP Models
-
-### 💻 Programming Languages
-
-🟢 Python\
-🟡 C & C++\
-🟡 Java\
-🔵 SQL
-
-### 🏆 Soft Skills
-
-✅ Problem Solving\
-✅ Team Collaboration\
-✅ Adaptability & Continuous Learning
+### 🏆 Soft Skills  
+✅ Problem Solving  
+✅ Team Collaboration  
+✅ Adaptability & Continuous Learning  
 
 ---
 
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikanta-1234&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta-1234&theme=highcontrast" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-1234&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats:
+<table>
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Manikanta-1234&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-1234&theme=radical&langs_count=8" alt="Top Languages"/></td>
+    </tr>
+</table>
 
 ---
 
-## 🚀 My Tech Journey Progress 📈
+## 🚀 My Tech Journey Progress 📈  
 
-### 🤖 AI & Machine Learning (Beginner 🚀)
+### 🌐 Web Development  
+![Web Development](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)  
 
-![AI & ML](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+### 🤖 AI & Machine Learning  
+![AI & Machine Learning](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)  
 
-### 📱 Mobile App Development (Beginner 🌟)
+### 💻 Programming Languages  
+![Programming Languages](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)  
 
-![Mobile App Dev](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
-### 💻 Programming Languages (Beginner! 💪)
-
-![Programming](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
-👣 *Track my progress as I grow in AI & Mobile App Development!*
+👣 *Follow my progress as I improve in different areas!*  
 
 ---
 
-## 🎯 Code Challenge of the Day 🎯
-
-💡 **Difficulty:** Intermediate ⚡
+## 🎯 Code Challenge of the Day  
+💡 **Difficulty:** Beginner 🔰  
 
 ```python
-# Find the first duplicate in a list
+# Reverse a string without using built-in functions
 
-def first_duplicate(lst):
-    seen = set()
-    for num in lst:
-        if num in seen:
-            return num
-        seen.add(num)
-    return -1
+def reverse_string(s):
+    return s[::-1]
 
-# Test it out!
-print(first_duplicate([1, 2, 3, 4, 2, 5, 6]))  # Expected output: 2
+# Test
+print(reverse_string("Manikanta"))  # Output: atnakinaM
+
